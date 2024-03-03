@@ -1,9 +1,6 @@
-## Не забудь звезду
+## Backend для аутентификации на Nest.js
 
-в файле .development.env конфигурация для бд. Добавить свою.
+в файле .development.env необходимо добавить свою конфу
 
 #### npm run start:dev - Запуск
 
-##
-
-#### docker-compose up 
